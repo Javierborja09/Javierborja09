@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Javier Borja
 
 <div align="center">
-  <img src="https://i.ibb.co/wNGJ1QMF/banner.png" alt="Banner profesional" width="100%"/>
+  <img src="https://i.ibb.co/wNGJ1QMF/banner.png" alt="Banner" width="100%"/>
 </div>
 
 ## 🚀 Sobre mí
