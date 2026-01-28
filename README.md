@@ -71,7 +71,7 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 ¿Tienes un proyecto interesante o quieres colaborar? ¡No dudes en contactarme!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Javierborja09-181717?style=for-the-badge&logo=github)](https://github.com/Javierborja09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javierborja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/javierborja](https://www.linkedin.com/in/javier-jeanpool-borja-samaniego-a6b8b7300/))
 
 ---
 
