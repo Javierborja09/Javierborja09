@@ -43,13 +43,41 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🛡️ Especialidades
+## 🛡️ Especialidades y Competencias
 
-- 🔐 **Seguridad Web**: Análisis de vulnerabilidades y pentesting de aplicaciones
-- 🌐 **Desarrollo de APIs**: Diseño e implementación de APIs RESTful
-- 🕷️ **Web Scraping Ético**: Extracción y análisis de datos web
-- 🏗️ **Arquitectura de Software**: Diseño de sistemas escalables y mantenibles
-- 🔍 **Auditoría de Sistemas**: Evaluación de seguridad en aplicaciones
+### 💻 Desarrollo Full Stack
+- **Backend Robusto**: Construcción de arquitecturas escalables con Spring Boot, Laravel, ASP.NET y Node.js
+- **Frontend Moderno**: Desarrollo de interfaces reactivas e intuitivas con React, Bootstrap y TailwindCSS
+- **APIs RESTful**: Diseño, implementación y documentación de APIs seguras y eficientes con autenticación JWT y OAuth
+
+### 🔐 Seguridad y Pentesting
+- **Análisis de Vulnerabilidades**: Identificación de fallos OWASP Top 10 (SQL Injection, XSS, CSRF, etc.)
+- **Pentesting de Aplicaciones**: Auditorías de seguridad web y pruebas de penetración ética
+- **Hardening de Sistemas**: Implementación de medidas de seguridad, encriptación y buenas prácticas
+- **Seguridad en APIs**: Validación, sanitización y protección contra ataques comunes
+
+### 🗄️ Gestión de Datos
+- **Bases de Datos Relacionales**: Diseño de esquemas optimizados, consultas complejas y procedimientos almacenados en SQL Server y MySQL
+- **Bases de Datos NoSQL**: Modelado de datos y consultas eficientes en MongoDB y Firebase
+- **Optimización de Queries**: Indexación, análisis de planes de ejecución y mejora de rendimiento
+- **Migración de Datos**: ETL y sincronización entre diferentes sistemas de bases de datos
+
+### 🕷️ Web Scraping y Automatización
+- **Extracción de Datos**: Web scraping ético con Python (BeautifulSoup, Scrapy, Selenium)
+- **Automatización de Procesos**: Scripts y bots para tareas repetitivas y análisis de datos
+- **Procesamiento de Información**: Limpieza, transformación y análisis de grandes volúmenes de datos
+
+### 🏗️ Arquitectura y Diseño
+- **Patrones de Diseño**: Implementación de MVC, Repository, Factory, Singleton y más
+- **Arquitectura en Capas**: Separación de responsabilidades y código mantenible
+- **Microservicios**: Diseño de sistemas distribuidos y comunicación entre servicios
+- **Clean Code**: Principios SOLID, refactorización y código legible
+
+### 🔧 DevOps y Herramientas
+- **Control de Versiones**: Flujos de trabajo con Git (GitFlow, Feature Branch)
+- **Gestión de Proyectos**: Metodologías ágiles (Scrum, Kanban)
+- **IDEs Avanzados**: Dominio de NetBeans, Visual Studio Code, IntelliJ IDEA
+- **Testing**: Pruebas unitarias, integración y automatización de QA
 
 ## 📊 Estadísticas de GitHub
 
@@ -58,13 +86,15 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javierborja09&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌟 Objetivos
+## 🌟 Objetivos y Visión
 
-- 🎯 Completar mi carrera en Computación e Informática
-- 🚀 Lanzar la primera versión estable de **Olyxis Framework**
-- 🌱 Continuar aprendiendo nuevas tecnologías y mejores prácticas
-- 🤝 Colaborar en proyectos open source
-- 💡 Compartir conocimiento con la comunidad de desarrolladores
+- 🎓 **Excelencia Académica**: Culminar mi carrera en Computación e Informática con distinción y aplicar todo el conocimiento adquirido en proyectos reales
+- 🚀 **Olyxis Framework**: Lanzar la versión 1.0 y construir una comunidad activa de desarrolladores que contribuyan al proyecto
+- 🏆 **Especialización Avanzada**: Obtener certificaciones en seguridad informática (CEH, OSCP) y arquitectura de software empresarial
+- 🌐 **Impacto Open Source**: Contribuir activamente a proyectos de código abierto reconocidos y crear herramientas que beneficien a la comunidad de desarrolladores
+- 💼 **Crecimiento Profesional**: Integrarme en equipos de desarrollo de alto rendimiento donde pueda aportar valor y seguir aprendiendo de expertos
+- 🎯 **Innovación Continua**: Mantenerme actualizado con las últimas tecnologías emergentes (IA, Cloud Native, DevSecOps) y aplicarlas en soluciones prácticas
+- 🤝 **Mentoría y Conocimiento**: Compartir experiencias y guiar a nuevos desarrolladores a través de tutoriales, talleres técnicos y contenido educativo
 
 ## 📫 Contacto
 
