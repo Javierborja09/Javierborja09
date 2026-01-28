@@ -43,6 +43,11 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Modelado y Análisis de Procesos
+![IBM Rhapsody](https://img.shields.io/badge/IBM_Rhapsody-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi_Modeler-FF6C37?style=for-the-badge&logo=bizagi&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-2C2D72?style=for-the-badge&logo=uml&logoColor=white)
+
 ## 🛡️ Especialidades y Competencias
 
 ### 💻 Desarrollo Full Stack
@@ -72,6 +77,13 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 - **Arquitectura en Capas**: Separación de responsabilidades y código mantenible
 - **Microservicios**: Diseño de sistemas distribuidos y comunicación entre servicios
 - **Clean Code**: Principios SOLID, refactorización y código legible
+- **Modelado UML**: Diagramas de clases, secuencia, casos de uso y componentes con StarUML
+- **Ingeniería de Software**: Diseño de arquitecturas con IBM Rhapsody para sistemas complejos
+
+### 📋 Análisis y Modelado de Procesos
+- **BPM (Business Process Management)**: Modelado y optimización de procesos de negocio con Bizagi Modeler
+- **Automatización de Flujos**: Diseño de workflows eficientes y automatizados
+- **Documentación Técnica**: Creación de diagramas BPMN y especificaciones de procesos
 
 ### 🔧 DevOps y Herramientas
 - **Control de Versiones**: Flujos de trabajo con Git (GitFlow, Feature Branch)
@@ -108,3 +120,4 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 <div align="center">
   <i>💼 Abierto a oportunidades laborales y colaboraciones | 🚀 Siempre aprendiendo, siempre creciendo</i>
 </div>
+
