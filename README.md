@@ -91,13 +91,6 @@ Actualmente estoy desarrollando **Olyxis**, un framework PHP que implementa el p
 - **IDEs Avanzados**: Dominio de NetBeans, Visual Studio Code, IntelliJ IDEA
 - **Testing**: Pruebas unitarias, integración y automatización de QA
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javierborja09&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javierborja09&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🌟 Objetivos y Visión
 
 - 🎓 **Excelencia Académica**: Culminar mi carrera en Computación e Informática con distinción y aplicar todo el conocimiento adquirido en proyectos reales
